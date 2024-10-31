@@ -7,7 +7,7 @@ The Sample Sorter Application is a JavaScript solution for organizing test tubes
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/tomaszsiwek/sorter.git
    cd sorter
 2. **Install dependencies**
    ```bash
